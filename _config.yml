@@ -23,16 +23,15 @@
 
 
 # Site settings
-title: Brian
-email: naveen@pixelblenders.com
+title: Brian McCaughey Git
+email: humboldtgeographics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hello, I'm Brian, a GIS Analyst from Northern Californias Redwood Coast. Check out my projects on Humboldtgeographics.com
 baseurl: "/material/" # the subpath of your site, e.g. /blog/
 url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
-css: "cyan"
+twitter_username: bigbigkid
+github_username:  brian4html
+css: "white"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
